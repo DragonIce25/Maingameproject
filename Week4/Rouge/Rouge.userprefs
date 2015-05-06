@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\LeaderBoard\Assets\Leaderboard.cs">
+    <Files>
+      <File FileName="..\LeaderBoard\Assets\Entry.cs" Line="48" Column="1" />
+      <File FileName="..\LeaderBoard\Assets\Leaderboard.cs" Line="29" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
